@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 2px;
+    box-sizing: border-box;
+}
+
+input {
+    padding:5px;
+    display: block;
+    margin-bottom: 1px;
+    width: 30%;
+}
+
+button {
+    background-color: yellow;
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+}
